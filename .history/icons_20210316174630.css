@@ -1,17 +1,21 @@
-html, body {
+html {
     margin: 0px;
     background-color: #FFF8F8;
 }
 
+body {
+
+}
+
 .container {
     display: flex;
+    width: 100vw;
+    height: 100vh;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
 }
-
-
 
 /* Claudia's Header */
 
@@ -98,13 +102,14 @@ h1 {
 
 .example {
     display: flex;
-    width:200px;
+    width:300px;
+    height: 250px;
     justify-content: center;
     align-items: center;
 }
 
 .example img {
-    width:170px;    
+    width:200px;    
     object-fit: contain;
 }
 
@@ -114,19 +119,17 @@ h1 {
 
 p {
     font-family: 'Athiti';
-    font-size:25px;
+    font-size:30px;
     text-align: center;
 }
 
 /* bottom row */
 .bottom {
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    min-width: 600px;
     justify-content: center;
     background-color: #FFFFFF;
     border: 2px solid #9FCDA4;
+
 }
 
 img {
@@ -136,6 +139,7 @@ img {
 
 .left, .right {
     display: flex;
+    width: 800px;
     flex-direction: column;
     justify-content: space-around;
 }
@@ -150,19 +154,19 @@ img {
 
 .icon {
     display: flex;
-    width: 150px;
-    padding: 30px;
+    width: 50px;
+
 }
 
 .info {
     display: flex;
-    width: 300px;
+    width: 500px;
 }
 
 .reference {
     display: flex;
     justify-content: flex-start; 
-    margin-bottom: 100px;
+    /* margin-left: 80px; */
 }
 
 

@@ -99,6 +99,7 @@ h1 {
 .example {
     display: flex;
     width:200px;
+    /* height: 250px; */
     justify-content: center;
     align-items: center;
 }
@@ -136,6 +137,7 @@ img {
 
 .left, .right {
     display: flex;
+    /* width: 800px; */
     flex-direction: column;
     justify-content: space-around;
 }

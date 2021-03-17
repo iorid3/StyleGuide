@@ -136,6 +136,7 @@ img {
 
 .left, .right {
     display: flex;
+    /* width: 800px; */
     flex-direction: column;
     justify-content: space-around;
 }
