@@ -76,7 +76,6 @@ h2 {
     justify-content: center;
     align-items: center;
     padding-top: 50px;
-    font-size: 80px;
 }
 
 .colour_container {
@@ -205,7 +204,6 @@ h2 {
     min-width: 250px;
     max-width: 250px;
     flex-wrap: nowrap;
-    font-size: 30px;
 }
 
 .right {

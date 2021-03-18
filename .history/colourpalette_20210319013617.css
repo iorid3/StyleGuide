@@ -11,6 +11,7 @@ header, footer {
     align-items: center;
     font-family: 'Athiti', sans-serif;
     width: 100%;
+    font-size:100px;
 }
 .first_header {
     display: flex;
@@ -76,7 +77,6 @@ h2 {
     justify-content: center;
     align-items: center;
     padding-top: 50px;
-    font-size: 80px;
 }
 
 .colour_container {

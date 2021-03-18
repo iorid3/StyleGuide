@@ -131,7 +131,7 @@ main{
 .subheader{
     font-family: 'Athiti', sans-serif;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 24px;
 }
 
 
@@ -184,9 +184,6 @@ main{
     background-color:#1C75BC;
 }
 
-h3{
-    font-family: 'Athiti', sans-serif;
-}
 
 .horizontal1{
     transform:rotate(270deg) ;
@@ -233,11 +230,6 @@ h3{
     height:300px;
 }
 
-.pixel{
-    font-family: 'Athiti', sans-serif;
-    font-size:30px; 
-    font-weight: bold;
-}
 
 .explain{
     display: flex;
@@ -270,10 +262,8 @@ h3{
     margin:100px;
 }
 .footer_text div {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
-    font-style: italic;
-    font-variant: small-caps;
 }
 .footer_text_name {
     display: flex;
@@ -286,8 +276,8 @@ h3{
     margin: 10px 30px 30px 30px;
     font-weight: 500;
     font-size: 14px;
-    font-style: normal;
 }
+
 
 /* 
 @media only screen and (min-width:480px) { 

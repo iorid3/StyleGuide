@@ -1,12 +1,11 @@
 html, body {
     margin: 0;
-    background-color: #FFFDFA;
 }
 
 #main {
     display: flex;
     flex-direction: column;
-    background-color: #FFFDFA;
+    background-color: pink;
     width: 100vw;
     height: 100vh;
 
@@ -121,10 +120,8 @@ li a:hover {
     align-items: center;
 }
 .footer_text div {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
-    font-style: italic;
-    font-variant: small-caps;
 }
 .footer_text_name {
     display: flex;
@@ -137,7 +134,6 @@ li a:hover {
     margin: 10px 30px 30px 30px;
     font-weight: 500;
     font-size: 14px;
-    font-style: normal;
 }
 /* footer end */
 

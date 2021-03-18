@@ -184,9 +184,6 @@ main{
     background-color:#1C75BC;
 }
 
-h3{
-    font-family: 'Athiti', sans-serif;
-}
 
 .horizontal1{
     transform:rotate(270deg) ;
@@ -233,11 +230,6 @@ h3{
     height:300px;
 }
 
-.pixel{
-    font-family: 'Athiti', sans-serif;
-    font-size:30px; 
-    font-weight: bold;
-}
 
 .explain{
     display: flex;
@@ -267,7 +259,6 @@ h3{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin:100px;
 }
 .footer_text div {
     font-size: 16px;

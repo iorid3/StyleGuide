@@ -76,7 +76,6 @@ h2 {
     justify-content: center;
     align-items: center;
     padding-top: 50px;
-    font-size: 80px;
 }
 
 .colour_container {
@@ -205,7 +204,6 @@ h2 {
     min-width: 250px;
     max-width: 250px;
     flex-wrap: nowrap;
-    font-size: 30px;
 }
 
 .right {
@@ -257,7 +255,6 @@ h2 {
     max-width: 70%;
     padding-top: 50px;
     padding-bottom: 150px;
-    font-size: 30px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -277,7 +274,7 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
+    font-size:30px;
 }
 .footer_text div {
     font-size: 16px;
